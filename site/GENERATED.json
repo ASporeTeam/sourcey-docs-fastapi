@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T12:25:50Z",
+ "generated_at": "2026-10-22T12:29:18Z",
  "generator": "agent4 generate_docs_fastapi.py",
  "input_sha256": {
   "fastapi/__init__.py": "44adc1368b85e9593f11f3acdf8d953784d25cd0bf1da5bb121aef2f8858c0fd",

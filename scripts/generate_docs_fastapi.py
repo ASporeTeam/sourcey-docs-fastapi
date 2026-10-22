@@ -334,7 +334,14 @@ def build_inventory(src):
             p = os.path.join(root, fn)
             rel = os.path.relpath(p, docs_root)
             n_files += 1
-            inv["docs_tree"].append({"path": rel.replace(os.sep, "/"), "bytes": os.path.getsize(p)})
+            inv["docs_tree"].append(
+                {
+                    "path": rel.replace(os.sep, "/"),
+                    "bytes": os.path.getsize(p),
+                    "sha256": sha256_file(p),
+                    "public_url": f"https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/{rel.replace(os.sep, '/')}",
+                }
+            )
     inv["docs_tree_top_level"] = sorted(
         {
             e["path"].split("/")[0]
@@ -764,7 +771,7 @@ app = FastAPI(
         index_rows.append((entry["path"], entry["bytes"]))
     pages["upstream/index.md"] = f"""# Upstream documentation (ingested verbatim)
 
-The pages under this section are the **pinned upstream** FastAPI documentation
+The files catalogued here are the **pinned upstream** FastAPI documentation
 files, copied byte-for-byte out of `docs/en/docs/` at commit
 [`{target['commit'][:12]}`](https://github.com/fastapi/fastapi/tree/{target['commit']}).
 They are not rewritten by the generator.
@@ -774,7 +781,20 @@ They are not rewritten by the generator.
 
 {chr(10).join('- `' + t + '`' for t in inv['docs_tree_top_level'])}
 
-The full file list with sizes is in `inventory.json` (`docs_tree`).
+Every file is also published **as a static markdown file** next to this site, at
+
+```
+https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/<path>
+```
+
+so any line of the upstream documentation can be cited and re-checked byte for
+byte against the pinned commit. The complete file list — path, byte count and
+sha256 of every ingested file — is in `inventory.json` (`docs_tree`) and
+`GENERATED.json`.
+
+## Every ingested file
+
+{md_table([(e['path'], e['bytes'], f"`{e['sha256'][:16]}`") for e in inv['docs_tree']], ['Path', 'Bytes', 'sha256 (first 16)'])}
 """
 
     pages["upstream/examples.md"] = f"""# Upstream examples
