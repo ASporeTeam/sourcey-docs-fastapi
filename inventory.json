@@ -7008,627 +7008,939 @@
  "docs_tree": [
   {
    "path": "_llm-test.md",
-   "bytes": 11247
+   "bytes": 11247,
+   "sha256": "384c47b1755eeef2a43b217aef5f21a0136a001e0517d7739ec03f14963f3dfa",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/_llm-test.md"
   },
   {
    "path": "alternatives.md",
-   "bytes": 22663
+   "bytes": 22663,
+   "sha256": "7b733200900f4ed3885c719c95bc50e40dbe00dcbe9b5466de8d3d6b7ea45475",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/alternatives.md"
   },
   {
    "path": "async.md",
-   "bytes": 23978
+   "bytes": 23978,
+   "sha256": "5c112ab0e608d07324b13d9e8e61f670a932437a159d34e6a73779f65bfc9960",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/async.md"
   },
   {
    "path": "benchmarks.md",
-   "bytes": 3503
+   "bytes": 3503,
+   "sha256": "8834332af09b28fdee2c2490a8f9422b8f6d4952d4fd0517edf7a09f213608c6",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/benchmarks.md"
   },
   {
    "path": "contributing.md",
-   "bytes": 271
+   "bytes": 271,
+   "sha256": "6dc18b05e194e864a9fd0353ae68bf89d66a531517306a38687f7b2d1b577126",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/contributing.md"
   },
   {
    "path": "editor-support.md",
-   "bytes": 2516
+   "bytes": 2516,
+   "sha256": "fb250ee1cd5cbe32561b356d10c969d140daf43daf7e34d29c9ec2bcff9e8029",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/editor-support.md"
   },
   {
    "path": "environment-variables.md",
-   "bytes": 771
+   "bytes": 771,
+   "sha256": "a2e41b48587953b605929203b7ab6c4cec51e6bec79c22e8b2c55aa37b356277",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/environment-variables.md"
   },
   {
    "path": "external-links.md",
-   "bytes": 932
+   "bytes": 932,
+   "sha256": "169ce77a08238c80a1ef51ba77ebf14c542bc4e641830789d7604a9ce38d76d8",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/external-links.md"
   },
   {
    "path": "fastapi-cli.md",
-   "bytes": 6710
+   "bytes": 6710,
+   "sha256": "ad3860dd30364ab774324d61580dd2b7b175e28a0a3fbd3fc1b2c5ec779ffe3f",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/fastapi-cli.md"
   },
   {
    "path": "fastapi-people.md",
-   "bytes": 6413
+   "bytes": 6413,
+   "sha256": "2381d7e4dce0bc2a9c9f61ca0c41d3e4bb49238ba80ed2490c5455599316a994",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/fastapi-people.md"
   },
   {
    "path": "features.md",
-   "bytes": 9140
+   "bytes": 9140,
+   "sha256": "ceab6dbf056ac5aa7fc8be04f9b124d4e707f56342c62c300835cda9af094c2f",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/features.md"
   },
   {
    "path": "help-fastapi.md",
-   "bytes": 3472
+   "bytes": 3472,
+   "sha256": "e62936152a7bd13f0736c9232b88e26bf793426b2480888024a15740b17b2b2f",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/help-fastapi.md"
   },
   {
    "path": "history-design-future.md",
-   "bytes": 4086
+   "bytes": 4086,
+   "sha256": "c557c39563c2d67ce6516d0753aa9e12b22e6208d066c698dfbf59b2c269e16a",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/history-design-future.md"
   },
   {
    "path": "index.md",
-   "bytes": 25185
+   "bytes": 25185,
+   "sha256": "8793bbc33ba92718468451a690900161b6647332bf80204710932a28fbf2baef",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/index.md"
   },
   {
    "path": "management.md",
-   "bytes": 640
+   "bytes": 640,
+   "sha256": "f7a2054cb40fae265b595a3797dc08a9ae20789fe84977f52d7f76c14ed256e0",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/management.md"
   },
   {
    "path": "newsletter.md",
-   "bytes": 305
+   "bytes": 305,
+   "sha256": "cda957d4cf844d0b63ffa6b57822a6ed7d4670cc7ba33f3a80141ec9d0166f12",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/newsletter.md"
   },
   {
    "path": "project-generation.md",
-   "bytes": 1998
+   "bytes": 1998,
+   "sha256": "100e076b86ce3c10b8b434e6de36632436dc83a9009fbe595c699a8c6aaf2b2c",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/project-generation.md"
   },
   {
    "path": "python-types.md",
-   "bytes": 11214
+   "bytes": 11214,
+   "sha256": "01a72f8818f0e04cc0b3d77d20fd1591ba34bdbe21b85d9f4ce9c17b2511a8b1",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/python-types.md"
   },
   {
    "path": "release-notes.md",
-   "bytes": 725451
+   "bytes": 725451,
+   "sha256": "34d4618334b170617a1920c55fdde1ecf4f19e067e6d5194f50684a992b2c70f",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/release-notes.md"
   },
   {
    "path": "translation-banner.md",
-   "bytes": 379
+   "bytes": 379,
+   "sha256": "55f3f738430273583b97595d37ca427e42f55eb0d546fdee2ce4a8840e4b1a46",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/translation-banner.md"
   },
   {
    "path": "translations.md",
-   "bytes": 1796
+   "bytes": 1796,
+   "sha256": "ea75834d82cca26c8b89381bba93000938d17b7f882ded58ee2fc81b15059905",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/translations.md"
   },
   {
    "path": "virtual-environments.md",
-   "bytes": 1140
+   "bytes": 1140,
+   "sha256": "c8b41132d9979b10fdb6e469f87f3c0425fec59b710336d2e4e053007ec40dcc",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/virtual-environments.md"
   },
   {
    "path": "about/index.md",
-   "bytes": 74
+   "bytes": 74,
+   "sha256": "b47a19143ea8845206cffb90103e3d1aaf5fc081891acc6c78d6310893b5d3a9",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/about/index.md"
   },
   {
    "path": "how-to/authentication-error-status-code.md",
-   "bytes": 1190
+   "bytes": 1190,
+   "sha256": "af265f1e25f10028ba5593e8e5c430e4c3aae4be5f101d762bd3377eda70ee56",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/how-to/authentication-error-status-code.md"
   },
   {
    "path": "how-to/conditional-openapi.md",
-   "bytes": 2436
+   "bytes": 2436,
+   "sha256": "9e9ddd39df41b0a8afa138773e05343614ab0596705ffe77a01b932a218ca4ff",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/how-to/conditional-openapi.md"
   },
   {
    "path": "how-to/configure-swagger-ui.md",
-   "bytes": 2891
+   "bytes": 2891,
+   "sha256": "56856d863bcc2b5699f7c7407fb7b31eeef4925713a409cc7bac14adab0ee511",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/how-to/configure-swagger-ui.md"
   },
   {
    "path": "how-to/custom-docs-ui-assets.md",
-   "bytes": 7693
+   "bytes": 7693,
+   "sha256": "313417d3319baae4d9e13592c3c48f12cecd2df6473feeaea11eabb71c40a02e",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/how-to/custom-docs-ui-assets.md"
   },
   {
    "path": "how-to/custom-request-and-route.md",
-   "bytes": 4552
+   "bytes": 4552,
+   "sha256": "ce338d8ed72e10227f8a446876ce409714f9b646f58000512c2ba84f3ce096e8",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/how-to/custom-request-and-route.md"
   },
   {
    "path": "how-to/extending-openapi.md",
-   "bytes": 3740
+   "bytes": 3740,
+   "sha256": "5c685bf0627b38937f38dce0a8365f1070559465868c1fa7ca8f7c27c037e798",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/how-to/extending-openapi.md"
   },
   {
    "path": "how-to/general.md",
-   "bytes": 2834
+   "bytes": 2834,
+   "sha256": "e500a3aabb5ea2498feea2dd4eb8bab22546a1f7c29b5ca3fd7dfd485eb0351e",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/how-to/general.md"
   },
   {
    "path": "how-to/graphql.md",
-   "bytes": 2785
+   "bytes": 2785,
+   "sha256": "ef4e360d8647fea43b25ce6da4a7eb97f8577789f1445d20968ea7334a652e72",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/how-to/graphql.md"
   },
   {
    "path": "how-to/index.md",
-   "bytes": 582
+   "bytes": 582,
+   "sha256": "def013c4e40ea6573fa8a87beaa0fc7867b84b8ce8138936fca25f25c8d06e95",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/how-to/index.md"
   },
   {
    "path": "how-to/migrate-from-pydantic-v1-to-pydantic-v2.md",
-   "bytes": 6323
+   "bytes": 6323,
+   "sha256": "299211edb22182d36aefa523589ab1bce7bfe1d7c40743547175dd9dc9a76e11",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/how-to/migrate-from-pydantic-v1-to-pydantic-v2.md"
   },
   {
    "path": "how-to/separate-openapi-schemas.md",
-   "bytes": 4656
+   "bytes": 4656,
+   "sha256": "3c53fb613d227decbbf349b7c5c488dbc048c460249cddde8cd9d17ff350668e",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/how-to/separate-openapi-schemas.md"
   },
   {
    "path": "how-to/testing-database.md",
-   "bytes": 393
+   "bytes": 393,
+   "sha256": "9e6f3d9e2344cc927bd48e4ac8b7cb30b7acec46887a25778c602fef132b159d",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/how-to/testing-database.md"
   },
   {
    "path": "advanced/additional-responses.md",
-   "bytes": 9051
+   "bytes": 9051,
+   "sha256": "e8bba061371422a47f7f379a2a24493a67582da88eadf55575426cf8c2c6b39b",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/advanced/additional-responses.md"
   },
   {
    "path": "advanced/additional-status-codes.md",
-   "bytes": 2002
+   "bytes": 2002,
+   "sha256": "218eeb0ab9773ffc01143085b4ade9991c289334f09526a4d74087049a2de445",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/advanced/additional-status-codes.md"
   },
   {
    "path": "advanced/advanced-dependencies.md",
-   "bytes": 9249
+   "bytes": 9249,
+   "sha256": "f974f19e62ac242065fd8783e672e907f8b4b5738f06e0023a3d96c0d40ae754",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/advanced/advanced-dependencies.md"
   },
   {
    "path": "advanced/advanced-python-types.md",
-   "bytes": 2087
+   "bytes": 2087,
+   "sha256": "cabf2d7ccaa178c7163899e837190bb89e90df1cc03db53acb256e74ab37ff9a",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/advanced/advanced-python-types.md"
   },
   {
    "path": "advanced/async-tests.md",
-   "bytes": 3873
+   "bytes": 3873,
+   "sha256": "6b89c80ee2049808d7081f1b12aceea3451128b771e8bc3bb82ba9d2b87b10dc",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/advanced/async-tests.md"
   },
   {
    "path": "advanced/behind-a-proxy.md",
-   "bytes": 14887
+   "bytes": 14887,
+   "sha256": "ca98c9e590fcda5ef0ef12e387907b7e5c8677a889c5c920396f0ecb99b9d0b6",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/advanced/behind-a-proxy.md"
   },
   {
    "path": "advanced/custom-response.md",
-   "bytes": 11291
+   "bytes": 11291,
+   "sha256": "590d22726236c1954e8dde69e2d842fd69ade6952fe46f43e3c3309799368f9d",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/advanced/custom-response.md"
   },
   {
    "path": "advanced/dataclasses.md",
-   "bytes": 4104
+   "bytes": 4104,
+   "sha256": "38f32efa3334d83fc25fc798d898896af10eca2327b23514db459422fbc8f7df",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/advanced/dataclasses.md"
   },
   {
    "path": "advanced/events.md",
-   "bytes": 7985
+   "bytes": 7985,
+   "sha256": "33de759da943ea437830d8c744d8c0a3887f40c54f738886314575805216afab",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/advanced/events.md"
   },
   {
    "path": "advanced/generate-clients.md",
-   "bytes": 8718
+   "bytes": 8718,
+   "sha256": "d401f5f136ddae9e78d2f7bd0f28e5de08f69189b89e2f58fe22c95d4d9dd07f",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/advanced/generate-clients.md"
   },
   {
    "path": "advanced/index.md",
-   "bytes": 757
+   "bytes": 757,
+   "sha256": "b1f89adea85d3293e397ac6dccc774b4aa04cbc94b5d63604d272bf5c9df7f6c",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/advanced/index.md"
   },
   {
    "path": "advanced/json-base64-bytes.md",
-   "bytes": 2474
+   "bytes": 2474,
+   "sha256": "9407de903f42e92c04b982a1d2d624007c552f672a7fa579a199b46e7cc18a28",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/advanced/json-base64-bytes.md"
   },
   {
    "path": "advanced/middleware.md",
-   "bytes": 4200
+   "bytes": 4200,
+   "sha256": "051ef9c6cd54a566be9192e0e4b6667b0e84604db7a3cffea8d970f874d72014",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/advanced/middleware.md"
   },
   {
    "path": "advanced/openapi-callbacks.md",
-   "bytes": 7857
+   "bytes": 7857,
+   "sha256": "e5e9e2fc12deca5e6a24229d813d7b78e4ef6b750ad9de26c9393b1b3105221c",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/advanced/openapi-callbacks.md"
   },
   {
    "path": "advanced/openapi-webhooks.md",
-   "bytes": 2948
+   "bytes": 2948,
+   "sha256": "5ac99c21eaad3bc474811457e6f1f03d553f7da217a22f20d4b743f6d637d23e",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/advanced/openapi-webhooks.md"
   },
   {
    "path": "advanced/opentelemetry.md",
-   "bytes": 7988
+   "bytes": 7988,
+   "sha256": "9bb6165753d464cd52e7b33e9cee88a98485531d4e1878e527eeee9f4c04209a",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/advanced/opentelemetry.md"
   },
   {
    "path": "advanced/path-operation-advanced-configuration.md",
-   "bytes": 7120
+   "bytes": 7120,
+   "sha256": "91828a237bb474c161a7d7424af07ada73f9398d69aa56409c048fe48cf17bd1",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/advanced/path-operation-advanced-configuration.md"
   },
   {
    "path": "advanced/response-change-status-code.md",
-   "bytes": 1558
+   "bytes": 1558,
+   "sha256": "ea918672101986658fa199f2f307351aa80a053709cf2b904bddeac9972fc343",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/advanced/response-change-status-code.md"
   },
   {
    "path": "advanced/response-cookies.md",
-   "bytes": 2228
+   "bytes": 2228,
+   "sha256": "9a28cf8fcb42035459b8134128991a8c31c20646039378aaa997bcc1309352af",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/advanced/response-cookies.md"
   },
   {
    "path": "advanced/response-directly.md",
-   "bytes": 4137
+   "bytes": 4137,
+   "sha256": "ed930c2b190cecb99a336152e072e7430efa2b99afb5d47c741805965b361003",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/advanced/response-directly.md"
   },
   {
    "path": "advanced/response-headers.md",
-   "bytes": 2200
+   "bytes": 2200,
+   "sha256": "ff783f7a73905b1ac4fca980dfaa09782af510cc038e193512a1c675e33591e0",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/advanced/response-headers.md"
   },
   {
    "path": "advanced/settings.md",
-   "bytes": 11816
+   "bytes": 11816,
+   "sha256": "e25439be1e4468a444757378f4b65de038867df9bf969e1ddf64460dc3e8f79f",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/advanced/settings.md"
   },
   {
    "path": "advanced/stream-data.md",
-   "bytes": 5500
+   "bytes": 5500,
+   "sha256": "8af35135ea5ebed19fe74496da9e109fdf842e7f1608abe00001a6cac5179da8",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/advanced/stream-data.md"
   },
   {
    "path": "advanced/strict-content-type.md",
-   "bytes": 3292
+   "bytes": 3292,
+   "sha256": "c46698c00f096129b39817750c56134cac627bf74b9e9e0e2c748ae26fd98ac3",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/advanced/strict-content-type.md"
   },
   {
    "path": "advanced/sub-applications.md",
-   "bytes": 2956
+   "bytes": 2956,
+   "sha256": "79ef2e6ad8b5bc4450369c3964a293a5ca79238c938b7e624995ec9eab97a5d8",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/advanced/sub-applications.md"
   },
   {
    "path": "advanced/templates.md",
-   "bytes": 4398
+   "bytes": 4398,
+   "sha256": "d00f44b1d685db9dfc31c2a796126718154dc5e323d87bb674771df131ad3661",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/advanced/templates.md"
   },
   {
    "path": "advanced/testing-dependencies.md",
-   "bytes": 2413
+   "bytes": 2413,
+   "sha256": "6d26e7728428a508c2a51ac8e53920d003cbc9ed83f63df2e20590b199f12c2a",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/advanced/testing-dependencies.md"
   },
   {
    "path": "advanced/testing-events.md",
-   "bytes": 624
+   "bytes": 624,
+   "sha256": "54bc35fff61354725614f937dd5452af649da0f8e32a8d08fdeb0b741d08862a",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/advanced/testing-events.md"
   },
   {
    "path": "advanced/testing-websockets.md",
-   "bytes": 407
+   "bytes": 407,
+   "sha256": "ba45f3b0fffa3f74b373b6d32d9ccb672b5ea681bcf15ae470e6acd16d4d3f68",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/advanced/testing-websockets.md"
   },
   {
    "path": "advanced/using-request-directly.md",
-   "bytes": 2336
+   "bytes": 2336,
+   "sha256": "8b8867a2f4306c3f468b8e8f85b3647549c0435af603f44fb4057406a7bae56e",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/advanced/using-request-directly.md"
   },
   {
    "path": "advanced/websockets.md",
-   "bytes": 5394
+   "bytes": 5394,
+   "sha256": "8320bc17f58bd4427b91caf7ab7aceb2143b3203aba29f29116b8829e5f62f31",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/advanced/websockets.md"
   },
   {
    "path": "advanced/wsgi.md",
-   "bytes": 1478
+   "bytes": 1478,
+   "sha256": "9b1216351f8791fda89672974318384590e2e2cd188287f56184d46357ea1ff9",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/advanced/wsgi.md"
   },
   {
    "path": "advanced/security/http-basic-auth.md",
-   "bytes": 5124
+   "bytes": 5124,
+   "sha256": "29af6892acc5117daa11fa484cfe659b1d9c265705a68095a9426ffc287ca8ec",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/advanced/security/http-basic-auth.md"
   },
   {
    "path": "advanced/security/index.md",
-   "bytes": 648
+   "bytes": 648,
+   "sha256": "533f365dfe52ab453074e3ccf4e551a5dad6620028aa7ab1787cc24f5dc5e415",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/advanced/security/index.md"
   },
   {
    "path": "advanced/security/oauth2-scopes.md",
-   "bytes": 13769
+   "bytes": 13769,
+   "sha256": "c8e866d22d766b9473958b91c0231c2547ded1f323207ca1c64609df2b36bb5e",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/advanced/security/oauth2-scopes.md"
   },
   {
    "path": "tutorial/background-tasks.md",
-   "bytes": 4786
+   "bytes": 4786,
+   "sha256": "7a34e7a4a7bd2cb9e0b465588b77cf007b0a5c8bdcf7530ff3619ff6b3642468",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/background-tasks.md"
   },
   {
    "path": "tutorial/bigger-applications.md",
-   "bytes": 20394
+   "bytes": 20394,
+   "sha256": "43bda3093c97796838866e54becf78994e2f27915e9909e23bc77b59f5f9a23b",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/bigger-applications.md"
   },
   {
    "path": "tutorial/body-fields.md",
-   "bytes": 2417
+   "bytes": 2417,
+   "sha256": "c826ba83421489edb760ea62f8e3891f18dfd658fe2d7be2f26cc5598447f251",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/body-fields.md"
   },
   {
    "path": "tutorial/body-multiple-params.md",
-   "bytes": 4932
+   "bytes": 4932,
+   "sha256": "be8df903354461511052ae4bb75665268747039ab64d3fe872124870f7f09280",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/body-multiple-params.md"
   },
   {
    "path": "tutorial/body-nested-models.md",
-   "bytes": 6818
+   "bytes": 6818,
+   "sha256": "87c1ff04f9dc7c885be837cb992ebdf695907eecd9acc929faa1b7a184120f48",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/body-nested-models.md"
   },
   {
    "path": "tutorial/body-updates.md",
-   "bytes": 4091
+   "bytes": 4091,
+   "sha256": "a798bdb62c27ac9a3f5d2b3853eb4168a31aeb08ff36595e0231747ccaad78a8",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/body-updates.md"
   },
   {
    "path": "tutorial/body.md",
-   "bytes": 6611
+   "bytes": 6611,
+   "sha256": "1a3e0f7b9220dcee9a7379c999d57b49e126ed07725dbbc5566ee1278d4ec670",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/body.md"
   },
   {
    "path": "tutorial/cookie-param-models.md",
-   "bytes": 4187
+   "bytes": 4187,
+   "sha256": "93e9dd69a490135f3382830bf96b163ddf9417ecce5cb4e9c9b46becabd122fe",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/cookie-param-models.md"
   },
   {
    "path": "tutorial/cookie-params.md",
-   "bytes": 1602
+   "bytes": 1602,
+   "sha256": "790d67721fc8000801a48d0e8b4892a152388e12c4b7a2a58780dd73d0c68c28",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/cookie-params.md"
   },
   {
    "path": "tutorial/cors.md",
-   "bytes": 5370
+   "bytes": 5370,
+   "sha256": "da167c442cc3a73a776782a3e45936165c713e63cc40a9f0117d490a51a60b17",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/cors.md"
   },
   {
    "path": "tutorial/debugging.md",
-   "bytes": 2470
+   "bytes": 2470,
+   "sha256": "3c05a63e149781e253413447a62b2559dce4dab9a304920d283f3ce34cc7bcf4",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/debugging.md"
   },
   {
    "path": "tutorial/encoder.md",
-   "bytes": 1608
+   "bytes": 1608,
+   "sha256": "a7116cae1b44f5ac5841475b533b2df621875c41047d70cb02841ada13e3a486",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/encoder.md"
   },
   {
    "path": "tutorial/extra-data-types.md",
-   "bytes": 2693
+   "bytes": 2693,
+   "sha256": "23892fb722a135d36fff8ba8a7dd0ba34591c1aa758ed5851a2d3438ada6b667",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/extra-data-types.md"
   },
   {
    "path": "tutorial/extra-models.md",
-   "bytes": 6868
+   "bytes": 6868,
+   "sha256": "4c2302ff5c331ad0857a93f813f1a699b948476cc80e4bbc9bbea4484f3d5219",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/extra-models.md"
   },
   {
    "path": "tutorial/first-steps.md",
-   "bytes": 14155
+   "bytes": 14155,
+   "sha256": "ecc419c9e4ccf1e996db0b196301aab93a8f43d52ddc59a180d4e88f8290c858",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/first-steps.md"
   },
   {
    "path": "tutorial/frontend.md",
-   "bytes": 6418
+   "bytes": 6418,
+   "sha256": "eb513e68941a9d5d001001ee55d3d4235e5a25b613891c5681933fe76ff75d9e",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/frontend.md"
   },
   {
    "path": "tutorial/handling-errors.md",
-   "bytes": 9156
+   "bytes": 9156,
+   "sha256": "c0cb7aeafe8ed3802396f2421755cf1e740000347305c515a2c828c0c41f4b1a",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/handling-errors.md"
   },
   {
    "path": "tutorial/header-param-models.md",
-   "bytes": 4082
+   "bytes": 4082,
+   "sha256": "3243d6f3fff73362a6e63943f0a27035c611e099cf150450270142b51353a107",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/header-param-models.md"
   },
   {
    "path": "tutorial/header-params.md",
-   "bytes": 3032
+   "bytes": 3032,
+   "sha256": "353c4df2c4e729fea065892556ce92b71c406d3147fd4fa8d8158ac0cda23e0f",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/header-params.md"
   },
   {
    "path": "tutorial/index.md",
-   "bytes": 7464
+   "bytes": 7464,
+   "sha256": "22d619c9497c8e88094fdba2b297c91ed29b21459b658a3586ae39a95fd65335",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/index.md"
   },
   {
    "path": "tutorial/metadata.md",
-   "bytes": 5974
+   "bytes": 5974,
+   "sha256": "96ed076601792a2c2564b8453e85d094b84c25d6b347be4dec70135fe179da2b",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/metadata.md"
   },
   {
    "path": "tutorial/middleware.md",
-   "bytes": 3951
+   "bytes": 3951,
+   "sha256": "58cb232d288a5bdfa6f91680f6615520748884e17463059a1f28e78273563c39",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/middleware.md"
   },
   {
    "path": "tutorial/path-operation-configuration.md",
-   "bytes": 4121
+   "bytes": 4121,
+   "sha256": "4dd48d33514d52d997bbee269a3c293d70619af1ed9799545a2714010914cad6",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/path-operation-configuration.md"
   },
   {
    "path": "tutorial/path-params-numeric-validations.md",
-   "bytes": 6207
+   "bytes": 6207,
+   "sha256": "149a8e36ede2dc1341eb4d403c24c75392be6829c4b4e731e84bf3e6c0200f6f",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/path-params-numeric-validations.md"
   },
   {
    "path": "tutorial/path-params.md",
-   "bytes": 9041
+   "bytes": 9041,
+   "sha256": "81e09015b7a5c40e460eca9939da240a66f8a9efd88ad21c7992146337426fea",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/path-params.md"
   },
   {
    "path": "tutorial/query-param-models.md",
-   "bytes": 4476
+   "bytes": 4476,
+   "sha256": "abfff8900388c9dfab3d219bc1f91077d62f058723ba08d35f82320055545d14",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/query-param-models.md"
   },
   {
    "path": "tutorial/query-params-str-validations.md",
-   "bytes": 17098
+   "bytes": 17098,
+   "sha256": "e783acbc1d41e1fc5f7dc0babaf812bca995b1db6618022e2df5545798c1650b",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/query-params-str-validations.md"
   },
   {
    "path": "tutorial/query-params.md",
-   "bytes": 4886
+   "bytes": 4886,
+   "sha256": "260a8599062431557dda2c3b535d5b49a3b6b7d71c3ce680fad3ade1dfe1eb86",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/query-params.md"
   },
   {
    "path": "tutorial/request-files.md",
-   "bytes": 7080
+   "bytes": 7080,
+   "sha256": "4faafb4853d46b41cb9bc4c7c57e3ab293bcb9ce318b3b369162c4e239425ab6",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/request-files.md"
   },
   {
    "path": "tutorial/request-form-models.md",
-   "bytes": 4118
+   "bytes": 4118,
+   "sha256": "a7c8bc5527ca7a3e085784ae338c0727927afcedfbe3580f20cd03d791706538",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/request-form-models.md"
   },
   {
    "path": "tutorial/request-forms-and-files.md",
-   "bytes": 1352
+   "bytes": 1352,
+   "sha256": "2b0b1c3218818cb05b679ea0f80f1fe6493cf43fbf651305411b3e2b44a122b2",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/request-forms-and-files.md"
   },
   {
    "path": "tutorial/request-forms.md",
-   "bytes": 3001
+   "bytes": 3001,
+   "sha256": "825c467c10a570f9a42ba5a7447357c93689ea76fcf941930a18dd6d03d9737d",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/request-forms.md"
   },
   {
    "path": "tutorial/response-model.md",
-   "bytes": 15890
+   "bytes": 15890,
+   "sha256": "1cb51565cc693ee12e8f9cb6bfeefdab18bc010457274a4d55836474a1bb04ee",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/response-model.md"
   },
   {
    "path": "tutorial/response-status-code.md",
-   "bytes": 3994
+   "bytes": 3994,
+   "sha256": "44c62f134437997178668480503cc1cdfc55b45367ce8a66beff89c839aa896a",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/response-status-code.md"
   },
   {
    "path": "tutorial/schema-extra-example.md",
-   "bytes": 8970
+   "bytes": 8970,
+   "sha256": "1bc9e50ddfa28bc8c6057ebdeafafae8069ab9d05e2a1674555122ede3a263a0",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/schema-extra-example.md"
   },
   {
    "path": "tutorial/server-sent-events.md",
-   "bytes": 4704
+   "bytes": 4704,
+   "sha256": "1c2c53c7e20c55ce5e9d147347b65a8cd2b9dc982fd33a5b5187b07cbd79554b",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/server-sent-events.md"
   },
   {
    "path": "tutorial/sql-databases.md",
-   "bytes": 15620
+   "bytes": 15620,
+   "sha256": "a090bb4174b12a5d7bbc84a7e7c3d8d4461d02b23501c59abbed2d894460df9f",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/sql-databases.md"
   },
   {
    "path": "tutorial/static-files.md",
-   "bytes": 1921
+   "bytes": 1921,
+   "sha256": "6b6ed80768d92bd021a0abf9a9ba5b571dcc9b23440d1de5a13e5a109c4e77f8",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/static-files.md"
   },
   {
    "path": "tutorial/stream-json-lines.md",
-   "bytes": 4452
+   "bytes": 4452,
+   "sha256": "48c8b930042ac448af3f36a09b13cbf5fb5ad087f30204ae55b61efcea858b44",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/stream-json-lines.md"
   },
   {
    "path": "tutorial/testing.md",
-   "bytes": 5624
+   "bytes": 5624,
+   "sha256": "759b81a9967dc50ec405877a23bb362d202e5d483fe38ad2308cb32a88eb8eda",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/testing.md"
   },
   {
    "path": "tutorial/dependencies/classes-as-dependencies.md",
-   "bytes": 6915
+   "bytes": 6915,
+   "sha256": "ddfad2447ac9a678dc7a41d4985f6b958edb75812465accab0c3c46161029aa5",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/dependencies/classes-as-dependencies.md"
   },
   {
    "path": "tutorial/dependencies/dependencies-in-path-operation-decorators.md",
-   "bytes": 2954
+   "bytes": 2954,
+   "sha256": "69f61187f2a466880ee6471070d6516965c25f4d749b1a202b84a790a8ec8b8c",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/dependencies/dependencies-in-path-operation-decorators.md"
   },
   {
    "path": "tutorial/dependencies/dependencies-with-yield.md",
-   "bytes": 12857
+   "bytes": 12857,
+   "sha256": "93f58ceecafff1967c39047657ae08a020d2452c84d795dc777901c35b8a0d17",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/dependencies/dependencies-with-yield.md"
   },
   {
    "path": "tutorial/dependencies/global-dependencies.md",
-   "bytes": 1060
+   "bytes": 1060,
+   "sha256": "26fada3b3b65da1b47419a6d2c289630afabfccfd9ec80d4f8291702639d9e5f",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/dependencies/global-dependencies.md"
   },
   {
    "path": "tutorial/dependencies/index.md",
-   "bytes": 9771
+   "bytes": 9771,
+   "sha256": "83319cc87297bb0959c5721a112133e6a3cd19900163c348a8ee6cf4818cd21f",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/dependencies/index.md"
   },
   {
    "path": "tutorial/dependencies/sub-dependencies.md",
-   "bytes": 3827
+   "bytes": 3827,
+   "sha256": "9900c54685fac0b5376ba3f0d2f000f19feadd42f605003fef9f3be304d82970",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/dependencies/sub-dependencies.md"
   },
   {
    "path": "tutorial/security/first-steps.md",
-   "bytes": 8357
+   "bytes": 8357,
+   "sha256": "56a4f9201ff9a331bede5685a1a546f6bc536f75eb4aaeba5c1fb1fb8a49f8c7",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/security/first-steps.md"
   },
   {
    "path": "tutorial/security/get-current-user.md",
-   "bytes": 4117
+   "bytes": 4117,
+   "sha256": "2463a415b23ebf2398040ca35a899de4ed7cd7888cb0f7d61f529c4be53f14a4",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/security/get-current-user.md"
   },
   {
    "path": "tutorial/security/index.md",
-   "bytes": 4548
+   "bytes": 4548,
+   "sha256": "6c316110d145e16cc08e6e3caff00ebe7247470e85af3ce212d1ba3391092da8",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/security/index.md"
   },
   {
    "path": "tutorial/security/oauth2-jwt.md",
-   "bytes": 10762
+   "bytes": 10762,
+   "sha256": "09de4db00267448e11cbdc198154c6bf3ac4aa48cb88ecb87ee4e71d44d9272b",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/security/oauth2-jwt.md"
   },
   {
    "path": "tutorial/security/simple-oauth2.md",
-   "bytes": 9579
+   "bytes": 9579,
+   "sha256": "157bf4bfab49f239293ccbd7ef7af48398fd893f9ac158e06a0544c693c0dc65",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/tutorial/security/simple-oauth2.md"
   },
   {
    "path": "resources/index.md",
-   "bytes": 83
+   "bytes": 83,
+   "sha256": "620b83b00fa7bd7c3a6ffa4c1675232f08c7662806847b2bb6769b3ef45e4303",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/resources/index.md"
   },
   {
    "path": "deployment/cloud.md",
-   "bytes": 1090
+   "bytes": 1090,
+   "sha256": "dbd7b0dfca7df7e9dc2fd864050e1c88ff5c2cc54ecea77ae5626b1041423974",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/deployment/cloud.md"
   },
   {
    "path": "deployment/concepts.md",
-   "bytes": 18936
+   "bytes": 18936,
+   "sha256": "cd6e86bb5725fed1807b343a17b302ea8b1106b9049326b63707de499e2ee606",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/deployment/concepts.md"
   },
   {
    "path": "deployment/docker.md",
-   "bytes": 28940
+   "bytes": 28940,
+   "sha256": "0337b98d51778755f59aa1b96ba319f0decc20136f3b3ff1b7547619a5c71100",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/deployment/docker.md"
   },
   {
    "path": "deployment/fastapicloud.md",
-   "bytes": 1757
+   "bytes": 1757,
+   "sha256": "2b1367d719cb81aaff9bd51e1d75de96ddb5e376245b1ef78ba07fe54d3756c5",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/deployment/fastapicloud.md"
   },
   {
    "path": "deployment/https.md",
-   "bytes": 14304
+   "bytes": 14304,
+   "sha256": "96ab47d0bdd57399bc93fcf44877c6849e7f0513377273e25f783b5bb3117ad6",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/deployment/https.md"
   },
   {
    "path": "deployment/index.md",
-   "bytes": 1520
+   "bytes": 1520,
+   "sha256": "db01bbd0f4bc3cb78acaeec8a4a7ba94f11b4ca08acbd78d5f56f466cab0f1c0",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/deployment/index.md"
   },
   {
    "path": "deployment/manually.md",
-   "bytes": 6603
+   "bytes": 6603,
+   "sha256": "092f1a9a7b85634c20c2fd9a709f274201d109accdf620ccda12ff7be285c410",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/deployment/manually.md"
   },
   {
    "path": "deployment/server-workers.md",
-   "bytes": 8379
+   "bytes": 8379,
+   "sha256": "5b4bd1b6afe1c9ef70bd210aa101ce386f6c48ee9f8c97e4066ab667545b74da",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/deployment/server-workers.md"
   },
   {
    "path": "deployment/versions.md",
-   "bytes": 3510
+   "bytes": 3510,
+   "sha256": "be142679260fcd584d5b67d82099ef853ff095b0ba9b436d464794c08ab20432",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/deployment/versions.md"
   },
   {
    "path": "reference/apirouter.md",
-   "bytes": 547
+   "bytes": 547,
+   "sha256": "7fc7c1b8504cdb80e8ab1fcf232e12b45a9a4b06d2603bca45b32afb44995c7e",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/reference/apirouter.md"
   },
   {
    "path": "reference/background.md",
-   "bytes": 377
+   "bytes": 377,
+   "sha256": "895ad7f9418b148b66ecd9a50b66e02bc1bf55a0f4abb0b6db87090ec60122d1",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/reference/background.md"
   },
   {
    "path": "reference/dependencies.md",
-   "bytes": 671
+   "bytes": 671,
+   "sha256": "7c4376a61fa086d3d8cfbfe59e80e401ba50aaf6149a0fec4c1d457008841444",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/reference/dependencies.md"
   },
   {
    "path": "reference/encoders.md",
-   "bytes": 71
+   "bytes": 71,
+   "sha256": "1da15322f32044f832a48395b252c975d4fdf227f15c44be05d2f0de6d57341a",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/reference/encoders.md"
   },
   {
    "path": "reference/exceptions.md",
-   "bytes": 597
+   "bytes": 597,
+   "sha256": "409cadc3d831c4487ed7b67277cac93f91a8494a7827009cc3150aff264a0f50",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/reference/exceptions.md"
   },
   {
    "path": "reference/fastapi.md",
-   "bytes": 724
+   "bytes": 724,
+   "sha256": "24ae7edeabea12e47165c6026470a201b261c67ea108f762ef4faff756b72504",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/reference/fastapi.md"
   },
   {
    "path": "reference/httpconnection.md",
-   "bytes": 359
+   "bytes": 359,
+   "sha256": "fa08fcde919ccc974cab1fc4228e3f32da33172d006a31306f019ad95bb74cbb",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/reference/httpconnection.md"
   },
   {
    "path": "reference/index.md",
-   "bytes": 285
+   "bytes": 285,
+   "sha256": "153c1466906b1b0b31ac74273b1da7a1887b9384e2ec386b56051dd51d650afa",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/reference/index.md"
   },
   {
    "path": "reference/middleware.md",
-   "bytes": 845
+   "bytes": 845,
+   "sha256": "cd65f3b4089c7dc3471549c08cbce75c279875400bc5febbd9bc37030b9e1131",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/reference/middleware.md"
   },
   {
    "path": "reference/parameters.md",
-   "bytes": 603
+   "bytes": 603,
+   "sha256": "205cda636e7a52445ae377baddff4f81a1c5337b9bfa7ed8e61379cefc98d4e8",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/reference/parameters.md"
   },
   {
    "path": "reference/request.md",
-   "bytes": 652
+   "bytes": 652,
+   "sha256": "0ce7d18cde49f128ebf837f9cd601736aab9ba6f6b0effec70188e2fe66ab75e",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/reference/request.md"
   },
   {
    "path": "reference/response.md",
-   "bytes": 559
+   "bytes": 559,
+   "sha256": "fffc4a258731280cb16ff0af65a9865d9755ecdf26340bcc36b45508cbef1560",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/reference/response.md"
   },
   {
    "path": "reference/responses.md",
-   "bytes": 4546
+   "bytes": 4546,
+   "sha256": "6ef59328b4a2ecc399c5e366f8ac098311792e12f428f2c43de0be55f2f86282",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/reference/responses.md"
   },
   {
    "path": "reference/sse.md",
-   "bytes": 662
+   "bytes": 662,
+   "sha256": "9181734adce713f41d7bd3f6079f0c60842e0200b5ffc3ffd6cc03f99657eba0",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/reference/sse.md"
   },
   {
    "path": "reference/staticfiles.md",
-   "bytes": 391
+   "bytes": 391,
+   "sha256": "1a70b7a256609449b572980901b2afefc157cb4361ed436dd96d1c43da8787f8",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/reference/staticfiles.md"
   },
   {
    "path": "reference/status.md",
-   "bytes": 861
+   "bytes": 861,
+   "sha256": "9b7a73cf2afbb76cc22678027f5240c6c676b65bd0ba68a06586e1fe75d86ac3",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/reference/status.md"
   },
   {
    "path": "reference/templating.md",
-   "bytes": 365
+   "bytes": 365,
+   "sha256": "fed7923444090e924caa677c451b93920a5d84a6c5b1b71e0c8c5c2bb927ffeb",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/reference/templating.md"
   },
   {
    "path": "reference/testclient.md",
-   "bytes": 450
+   "bytes": 450,
+   "sha256": "5c2c07456342432f90fd3596262011d9f318d6de98ea9027c6ecb12f9b6aee71",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/reference/testclient.md"
   },
   {
    "path": "reference/uploadfile.md",
-   "bytes": 472
+   "bytes": 472,
+   "sha256": "977f6f171246d09756fc71a52e3129e312f3480b8043b9e6930f55afe61eb40b",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/reference/uploadfile.md"
   },
   {
    "path": "reference/websockets.md",
-   "bytes": 2007
+   "bytes": 2007,
+   "sha256": "a7c65db4bd585c2057badb95d059d0d34c408fc906721960fa67a7640b7e13d6",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/reference/websockets.md"
   },
   {
    "path": "reference/openapi/docs.md",
-   "bytes": 360
+   "bytes": 360,
+   "sha256": "b33fe420bac7a66e3ed06f242d5001c47f0d35be5fcd8bea9e43e2a7f829865d",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/reference/openapi/docs.md"
   },
   {
    "path": "reference/openapi/index.md",
-   "bytes": 158
+   "bytes": 158,
+   "sha256": "3c0b3bcf377c4701e62dcde0c58194c90885d66f11f1f7fd577e63aada0f9d71",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/reference/openapi/index.md"
   },
   {
    "path": "reference/openapi/models.md",
-   "bytes": 125
+   "bytes": 125,
+   "sha256": "edcc6862b45c3c393494c66db826080da6125afb4cbe13f9d05c182db49a45ab",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/reference/openapi/models.md"
   },
   {
    "path": "reference/security/index.md",
-   "bytes": 1778
+   "bytes": 1778,
+   "sha256": "7ada99ce8cc1150a0ec6723958bcc377a51ed7afddd1cf9f00593c15a2a96dc1",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/reference/security/index.md"
   },
   {
    "path": "learn/index.md",
-   "bytes": 206
+   "bytes": 206,
+   "sha256": "accb670db6bc727d40aca998f2cef1a6c510c0f76cf5d9b84bf5c39e45dbfb72",
+   "public_url": "https://asporeteam.github.io/sourcey-docs-fastapi/upstream/docs/learn/index.md"
   }
  ],
  "docs_tree_top_level": [
@@ -8038,7 +8350,7 @@
  ],
  "docs_tree_file_count": 156,
  "public_api_count": 312,
- "generated_at": "2026-10-22T12:25:50Z",
+ "generated_at": "2026-10-22T12:29:18Z",
  "target": {
   "library": "fastapi",
   "upstream": "https://github.com/fastapi/fastapi",
