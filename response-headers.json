@@ -1,0 +1,91 @@
+{
+  "/sourcey-docs-fastapi/docs/index.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://asporeteam.github.io/sourcey-docs-fastapi/docs/>; rel=\"canonical\", <https://asporeteam.github.io/sourcey-docs-fastapi/llms.txt>; rel=\"describedby\""
+  },
+  "/sourcey-docs-fastapi/docs/getting-started/index.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://asporeteam.github.io/sourcey-docs-fastapi/docs/getting-started/>; rel=\"canonical\", <https://asporeteam.github.io/sourcey-docs-fastapi/llms.txt>; rel=\"describedby\""
+  },
+  "/sourcey-docs-fastapi/docs/reference/classes/index.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://asporeteam.github.io/sourcey-docs-fastapi/docs/reference/classes/>; rel=\"canonical\", <https://asporeteam.github.io/sourcey-docs-fastapi/llms.txt>; rel=\"describedby\""
+  },
+  "/sourcey-docs-fastapi/docs/reference/routing/index.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://asporeteam.github.io/sourcey-docs-fastapi/docs/reference/routing/>; rel=\"canonical\", <https://asporeteam.github.io/sourcey-docs-fastapi/llms.txt>; rel=\"describedby\""
+  },
+  "/sourcey-docs-fastapi/docs/reference/parameters/index.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://asporeteam.github.io/sourcey-docs-fastapi/docs/reference/parameters/>; rel=\"canonical\", <https://asporeteam.github.io/sourcey-docs-fastapi/llms.txt>; rel=\"describedby\""
+  },
+  "/sourcey-docs-fastapi/docs/reference/responses/index.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://asporeteam.github.io/sourcey-docs-fastapi/docs/reference/responses/>; rel=\"canonical\", <https://asporeteam.github.io/sourcey-docs-fastapi/llms.txt>; rel=\"describedby\""
+  },
+  "/sourcey-docs-fastapi/docs/reference/exceptions/index.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://asporeteam.github.io/sourcey-docs-fastapi/docs/reference/exceptions/>; rel=\"canonical\", <https://asporeteam.github.io/sourcey-docs-fastapi/llms.txt>; rel=\"describedby\""
+  },
+  "/sourcey-docs-fastapi/docs/reference/config/index.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://asporeteam.github.io/sourcey-docs-fastapi/docs/reference/config/>; rel=\"canonical\", <https://asporeteam.github.io/sourcey-docs-fastapi/llms.txt>; rel=\"describedby\""
+  },
+  "/sourcey-docs-fastapi/docs/upstream/index/index.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://asporeteam.github.io/sourcey-docs-fastapi/docs/upstream/index/>; rel=\"canonical\", <https://asporeteam.github.io/sourcey-docs-fastapi/llms.txt>; rel=\"describedby\""
+  },
+  "/sourcey-docs-fastapi/docs/upstream/examples/index.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://asporeteam.github.io/sourcey-docs-fastapi/docs/upstream/examples/>; rel=\"canonical\", <https://asporeteam.github.io/sourcey-docs-fastapi/llms.txt>; rel=\"describedby\""
+  },
+  "/sourcey-docs-fastapi/docs/provenance/index.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://asporeteam.github.io/sourcey-docs-fastapi/docs/provenance/>; rel=\"canonical\", <https://asporeteam.github.io/sourcey-docs-fastapi/llms.txt>; rel=\"describedby\""
+  },
+  "/sourcey-docs-fastapi/documents.json": {
+    "Content-Type": "application/json; charset=utf-8"
+  },
+  "/sourcey-docs-fastapi/llms.txt": {
+    "Content-Type": "text/plain; charset=utf-8"
+  },
+  "/sourcey-docs-fastapi/llms-full.txt": {
+    "Content-Type": "text/plain; charset=utf-8"
+  },
+  "/sourcey-docs-fastapi/docs/": {
+    "Link": "<https://asporeteam.github.io/sourcey-docs-fastapi/docs/index.md>; rel=\"alternate\"; type=\"text/markdown\", <https://asporeteam.github.io/sourcey-docs-fastapi/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/sourcey-docs-fastapi/docs/getting-started/": {
+    "Link": "<https://asporeteam.github.io/sourcey-docs-fastapi/docs/getting-started/index.md>; rel=\"alternate\"; type=\"text/markdown\", <https://asporeteam.github.io/sourcey-docs-fastapi/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/sourcey-docs-fastapi/docs/reference/classes/": {
+    "Link": "<https://asporeteam.github.io/sourcey-docs-fastapi/docs/reference/classes/index.md>; rel=\"alternate\"; type=\"text/markdown\", <https://asporeteam.github.io/sourcey-docs-fastapi/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/sourcey-docs-fastapi/docs/reference/routing/": {
+    "Link": "<https://asporeteam.github.io/sourcey-docs-fastapi/docs/reference/routing/index.md>; rel=\"alternate\"; type=\"text/markdown\", <https://asporeteam.github.io/sourcey-docs-fastapi/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/sourcey-docs-fastapi/docs/reference/parameters/": {
+    "Link": "<https://asporeteam.github.io/sourcey-docs-fastapi/docs/reference/parameters/index.md>; rel=\"alternate\"; type=\"text/markdown\", <https://asporeteam.github.io/sourcey-docs-fastapi/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/sourcey-docs-fastapi/docs/reference/responses/": {
+    "Link": "<https://asporeteam.github.io/sourcey-docs-fastapi/docs/reference/responses/index.md>; rel=\"alternate\"; type=\"text/markdown\", <https://asporeteam.github.io/sourcey-docs-fastapi/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/sourcey-docs-fastapi/docs/reference/exceptions/": {
+    "Link": "<https://asporeteam.github.io/sourcey-docs-fastapi/docs/reference/exceptions/index.md>; rel=\"alternate\"; type=\"text/markdown\", <https://asporeteam.github.io/sourcey-docs-fastapi/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/sourcey-docs-fastapi/docs/reference/config/": {
+    "Link": "<https://asporeteam.github.io/sourcey-docs-fastapi/docs/reference/config/index.md>; rel=\"alternate\"; type=\"text/markdown\", <https://asporeteam.github.io/sourcey-docs-fastapi/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/sourcey-docs-fastapi/docs/upstream/index/": {
+    "Link": "<https://asporeteam.github.io/sourcey-docs-fastapi/docs/upstream/index/index.md>; rel=\"alternate\"; type=\"text/markdown\", <https://asporeteam.github.io/sourcey-docs-fastapi/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/sourcey-docs-fastapi/docs/upstream/examples/": {
+    "Link": "<https://asporeteam.github.io/sourcey-docs-fastapi/docs/upstream/examples/index.md>; rel=\"alternate\"; type=\"text/markdown\", <https://asporeteam.github.io/sourcey-docs-fastapi/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/sourcey-docs-fastapi/docs/provenance/": {
+    "Link": "<https://asporeteam.github.io/sourcey-docs-fastapi/docs/provenance/index.md>; rel=\"alternate\"; type=\"text/markdown\", <https://asporeteam.github.io/sourcey-docs-fastapi/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/sourcey-docs-fastapi/404.html": {
+    "Link": "<https://asporeteam.github.io/sourcey-docs-fastapi/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  }
+}

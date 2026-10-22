@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://asporeteam.github.io/sourcey-docs-fastapi/docs/</loc></url>
+  <url><loc>https://asporeteam.github.io/sourcey-docs-fastapi/docs/getting-started/</loc></url>
+  <url><loc>https://asporeteam.github.io/sourcey-docs-fastapi/docs/reference/classes/</loc></url>
+  <url><loc>https://asporeteam.github.io/sourcey-docs-fastapi/docs/reference/routing/</loc></url>
+  <url><loc>https://asporeteam.github.io/sourcey-docs-fastapi/docs/reference/parameters/</loc></url>
+  <url><loc>https://asporeteam.github.io/sourcey-docs-fastapi/docs/reference/responses/</loc></url>
+  <url><loc>https://asporeteam.github.io/sourcey-docs-fastapi/docs/reference/exceptions/</loc></url>
+  <url><loc>https://asporeteam.github.io/sourcey-docs-fastapi/docs/reference/config/</loc></url>
+  <url><loc>https://asporeteam.github.io/sourcey-docs-fastapi/docs/upstream/index/</loc></url>
+  <url><loc>https://asporeteam.github.io/sourcey-docs-fastapi/docs/upstream/examples/</loc></url>
+  <url><loc>https://asporeteam.github.io/sourcey-docs-fastapi/docs/provenance/</loc></url>
+</urlset>

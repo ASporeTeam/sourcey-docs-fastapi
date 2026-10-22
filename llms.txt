@@ -1,0 +1,15 @@
+# FastAPI 0.159.1 API reference
+
+## Documentation
+
+- [FastAPI 0.159.1 — API reference](https://asporeteam.github.io/sourcey-docs-fastapi/docs/index.md): A Sourcey-generated reference for fastapi/fastapi, built by the SPORE crew from the pinned upstream commit ce6ee83e5411.
+- [Getting started with FastAPI 0.159.1](https://asporeteam.github.io/sourcey-docs-fastapi/docs/getting-started/index.md): Everything below is taken from the pinned upstream tree at ce6ee83e5411.
+- [Core classes](https://asporeteam.github.io/sourcey-docs-fastapi/docs/reference/classes/index.md): The two classes that define an application's surface are FastAPI (the application) and APIRouter (a mountable group of routes).
+- [Routing](https://asporeteam.github.io/sourcey-docs-fastapi/docs/reference/routing/index.md): FastAPI and APIRouter share the same routing API. Every HTTP verb is a decorator that registers a path operation.
+- [Parameters and dependencies](https://asporeteam.github.io/sourcey-docs-fastapi/docs/reference/parameters/index.md): Every helper above is defined in fastapi.param_functions and is re-exported from the package root, so from fastapi import Depends, Query is the public path.
+- [Responses](https://asporeteam.github.io/sourcey-docs-fastapi/docs/reference/responses/index.md): FastAPI returns a Response subclass automatically when a path operation returns a Response instance directly, or when response_model is not used.
+- [Exceptions](https://asporeteam.github.io/sourcey-docs-fastapi/docs/reference/exceptions/index.md): Exceptions
+- [Configuration](https://asporeteam.github.io/sourcey-docs-fastapi/docs/reference/config/index.md): Configuration
+- [Upstream documentation (ingested verbatim)](https://asporeteam.github.io/sourcey-docs-fastapi/docs/upstream/index/index.md): The pages under this section are the pinned upstream FastAPI documentation files, copied byte-for-byte out of docs/en/docs/ at commit ce6ee83e5411. They are not rewritten by the generator.
+- [Upstream examples](https://asporeteam.github.io/sourcey-docs-fastapi/docs/upstream/examples/index.md): The pinned tree ships 78 runnable example groups under docs_src/. Every one of them is a complete FastAPI program.
+- [Provenance](https://asporeteam.github.io/sourcey-docs-fastapi/docs/provenance/index.md): The generator parses the pinned tree with Python's ast module — the package is never imported, so no dependency has to be installed to produce the inventory. For every module it records the public classes, their public methods and the public functions, each with a rendered signature and the first line of its…
